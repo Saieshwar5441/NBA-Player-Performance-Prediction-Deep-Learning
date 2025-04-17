@@ -6,9 +6,8 @@ This project presents a deep learning-based approach for predicting NBA player s
 
 ## Project Overview
 
-- **Course:** CS 583 – Deep Learning  
-- **Timeline:** Fall 2024  
-- **Authors:** Sai Eshwar Gaddipati, Vedanth Sirimalla  
+- **Timeline:** October 2024 - December 2024 
+- **Author:** Sai Eshwar Gaddipati
 - **Dataset:** [NBA Player Stats (2023–2024)](https://www.kaggle.com/datasets/bryanchungweather/nba-player-stats-dataset-for-the-2023-2024)  
 - **Target:** Predict Points Per Game (PPG)
 
